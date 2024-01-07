@@ -6,3 +6,11 @@ Python-based AI Space Simulator Game! This interactive text-based adventure allo
 ## Architectural Diagram 
 
 ![architecture-diagram](https://github.com/piyushsachdeva/Python-AI-Space-Exploration-Game/assets/40286378/41d13d17-6253-4f23-9f93-acb6153dbd07)
+
+## Prerequisites
+
+Before getting started, ensure we have the following:
+
+- Python 3.7 or higher
+- OpenAI API Key
+- DataStax Astra Database (Cassandra DB)
