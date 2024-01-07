@@ -22,3 +22,18 @@ Before getting started, ensure we have the following:
 ```bash
 pip3 install cassandra-driver openai langchain cassio
 ```
+
+### 2. Replace variables
+
+Replace the following variables in `tutorial.py` with your values:
+
+- `OPENAI_API_KEY` with your OpenAI API Key.
+- `ASTRA_DB_KEYSPACE` with your Astra DB Keyspace.
+- `secure-connect-file.zip` with the zip file name you downloaded from Astra DB.
+- `connect-token.json` with the JSON file name you downloaded from Astra DB.
+   
+### 3. Run the program
+
+```bash
+python3 script.py
+```
