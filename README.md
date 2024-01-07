@@ -14,3 +14,11 @@ Before getting started, ensure we have the following:
 - Python 3.7 or higher
 - OpenAI API Key
 - DataStax Astra Database (Cassandra DB)
+
+## Installation
+
+### 1. Install dependencies
+
+```bash
+pip3 install cassandra-driver openai langchain cassio
+```
